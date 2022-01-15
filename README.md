@@ -1,4 +1,4 @@
-# python-tools
+# Python
 
 
 ## Local Python environments
@@ -10,11 +10,11 @@
 - Google CoLab (https://colab.research.google.com)
 
 
-# viz tools
+# Viz tools
 - Observable (https://observablehq.com/)
 
 
-# microservices tools + DBaas
+# Microservices tools, hosting, DB-as-a-service
 - Deta - micro-app, DB, serverless runners - (https://deta.sh)
 - Airplane - small app deployments - (https://airplane.dev)
 - Cloudflare Workers - serverless, but also great KV, caching, and soon S3 competitor - (https://cloudflare.com) 
